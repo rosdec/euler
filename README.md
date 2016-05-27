@@ -1,6 +1,6 @@
 #Concrete Euler Diagrams manipulation library
 
-This library has been designed and implemented by Rosario De Chiara (rosario@dechiara.eu) and Gennaro Cordasco (gennaro.cordasco@unina2.it) for a series of papers:
+This library has been designed and implemented by  Gennaro Cordasco (gennaro.cordasco@unina2.it), Rosario De Chiara (rosario@dechiara.eu) and Andrew Fish (Andrew.Fish@brighton.ac.uk) for a series of papers:
 
 - CORDASCO G., DE CHIARA R., FISH A. The online abstraction problem for Euler Diagrams. In Proc. of the 3rd International Workshop on Euler Diagrams Canterbury, UK, July 2, 2012. ISSN 1613-0073
 
