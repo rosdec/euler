@@ -1,4 +1,4 @@
-#Concrete Euler Diagrams manipulation library
+# Concrete Euler Diagrams manipulation library
 
 This library has been designed and implemented by  Gennaro Cordasco (gennaro.cordasco@unina2.it), Rosario De Chiara (rosario@dechiara.eu) and Andrew Fish (Andrew.Fish@brighton.ac.uk) for a series of papers:
 
